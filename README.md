@@ -12,3 +12,7 @@ You do some stuff yay
 
 ## How to Contribute
 I'm just learning here
+
+## Another heading
+
+## Latest heading
